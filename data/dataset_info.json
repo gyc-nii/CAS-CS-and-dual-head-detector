@@ -1,0 +1,15 @@
+﻿{
+    "total_records":  52447,
+    "max_token_label_length":  512,
+    "tokenization":  "roberta-base",
+    "score":  "SciBERT/BERT-Sci-based BERTScore",
+    "records_per_shard":  6000,
+    "shard_count":  9,
+    "source_counts":  {
+                          "n-extend+.txt":  1081,
+                          "n.txt":  30383,
+                          "n-other.txt":  15395,
+                          "gpt3.5-1106_level0.txt":  2588,
+                          "abstracts.txt":  3000
+                      }
+}
